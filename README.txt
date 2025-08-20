@@ -1,4 +1,4 @@
-Wazzup, to whoever is reading this. (HI SIR AARON!!!)
+Wazzup, to whoever is reading this. 
 
 So, I decided just to go solo, since I know I would have a hard time doing it my groupmates.
 
@@ -50,6 +50,7 @@ Name: [Lorrenz Pio F. Francisco]
 Section: [11-Foxpro]
 
 Subject: General Mathematics
+
 
 
 
